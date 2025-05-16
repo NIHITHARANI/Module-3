@@ -1,10 +1,5 @@
 # List Operations in Python: Sum of List Items
 
-NAME: Swetha K
-
-REG NO: 212224230284
-
-
 ## 🎯 Aim
 To write a Python program that calculates the **sum of all elements** in a list.
 
